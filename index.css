@@ -1,0 +1,26 @@
+input{
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    border-color: rgb(5, 54, 79);
+    min-width: 400px;
+}
+
+button{
+    width: 75px;
+    height: 20px;
+    background-color: rgb(5, 54, 79);
+    color: white;
+}
+
+li{
+    list-style:square;
+    color:black;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+
